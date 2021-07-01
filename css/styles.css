@@ -1,0 +1,78 @@
+.wrap{
+    background-image: url(../img/b2.jfif);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.wrap1{
+    background-image: url(../img/service.jfif);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+}
+.wrap3{
+    background-image: url(../img/about1.jfif);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.9;
+}
+.welcome {
+    text-align: center;
+    color: rgb(199, 23, 175);
+    padding: 100px;
+    font-weight: 600;
+    
+}
+
+.welcome p{
+    font-size: 15px;
+    font-style: italic;
+}
+.navbar{
+    background-color:transparent;
+}
+
+.story, .mission{
+    text-align: center;
+}
+.story p, .mission p{
+    font-style: italic;
+}
+
+.about{
+    color: rgb(199, 23, 175);  
+}
+
+#navbar ul li a:hover{
+    color: rgb(199, 23, 175);
+}
+ 
+#footer{
+    color: white;
+    background-color: rgb(199, 23, 175);
+}
+
+.footer ul li {
+    color: white;
+    list-style-type: square;
+    
+}
+.footer ul li a{
+    color: white;
+    text-decoration: none;
+    
+}
+.popular h1{
+    color: rgb(199, 23, 175);
+    font-style: italic;
+}
+
+.serve{
+    color: rgb(199, 23, 175);
+}
